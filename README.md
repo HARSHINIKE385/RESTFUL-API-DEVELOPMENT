@@ -36,4 +36,6 @@ OUTPUT SCREENSHOTS:
 
 ![Image](https://github.com/user-attachments/assets/412ee3da-33cb-4a31-995d-aa3a5e8a8b0e)
 
-![Image](https://github.com/user-attachments/assets/5a2e3f70-31e9-4668-9535-541e3144e0a7)
+<img width="910" height="380" alt="Image" src="https://github.com/user-attachments/assets/69147719-2d6e-491c-8376-44353616c7d1" />
+
+<img width="1026" height="312" alt="Image" src="https://github.com/user-attachments/assets/caa9a174-5a58-45ca-92f9-376d48b93180" />
