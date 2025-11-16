@@ -27,3 +27,13 @@ All operations are run interactively in Google Colab, leveraging its built-in Py
 Potential use cases for this project include educational tutorials on REST APIs, prototyping web applications that require simple data storage, or internal tools for managing small datasets like books, inventory, or user records. While the current implementation uses an in-memory list, it can be easily extended to use a persistent database such as SQLite or PostgreSQL for real-world applications.
 
 Overall, this Library API project is a straightforward, beginner-friendly demonstration of CRUD functionality, highlighting the power of Flask and Google Colab for web development experiments, learning, and rapid prototyping.
+
+OUTPUT SCREENSHOTS:
+
+![Image](https://github.com/user-attachments/assets/24462106-df1b-4052-9d5a-1bf097572252)
+
+![Image](https://github.com/user-attachments/assets/32f7a10f-96f9-48e2-8720-c9b164364e7f)
+
+![Image](https://github.com/user-attachments/assets/412ee3da-33cb-4a31-995d-aa3a5e8a8b0e)
+
+![Image](https://github.com/user-attachments/assets/5a2e3f70-31e9-4668-9535-541e3144e0a7)
